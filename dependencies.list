@@ -1,0 +1,7 @@
+System:
+  ruby:
+    Gems:
+      highline
+      rqrcode
+  feh
+  mktemp
